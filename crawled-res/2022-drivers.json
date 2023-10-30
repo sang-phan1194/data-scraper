@@ -1,0 +1,178 @@
+[
+  {
+    "index": 0,
+    "position": "1",
+    "driver": "Max Verstappen VER",
+    "nationality": "NED",
+    "car": "Red Bull Racing RBPT",
+    "pts": "454"
+  },
+  {
+    "index": 1,
+    "position": "2",
+    "driver": "Charles Leclerc LEC",
+    "nationality": "MON",
+    "car": "Ferrari",
+    "pts": "308"
+  },
+  {
+    "index": 2,
+    "position": "3",
+    "driver": "Sergio Perez PER",
+    "nationality": "MEX",
+    "car": "Red Bull Racing RBPT",
+    "pts": "305"
+  },
+  {
+    "index": 3,
+    "position": "4",
+    "driver": "George Russell RUS",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": "275"
+  },
+  {
+    "index": 4,
+    "position": "5",
+    "driver": "Carlos Sainz SAI",
+    "nationality": "ESP",
+    "car": "Ferrari",
+    "pts": "246"
+  },
+  {
+    "index": 5,
+    "position": "6",
+    "driver": "Lewis Hamilton HAM",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": "240"
+  },
+  {
+    "index": 6,
+    "position": "7",
+    "driver": "Lando Norris NOR",
+    "nationality": "GBR",
+    "car": "McLaren Mercedes",
+    "pts": "122"
+  },
+  {
+    "index": 7,
+    "position": "8",
+    "driver": "Esteban Ocon OCO",
+    "nationality": "FRA",
+    "car": "Alpine Renault",
+    "pts": "92"
+  },
+  {
+    "index": 8,
+    "position": "9",
+    "driver": "Fernando Alonso ALO",
+    "nationality": "ESP",
+    "car": "Alpine Renault",
+    "pts": "81"
+  },
+  {
+    "index": 9,
+    "position": "10",
+    "driver": "Valtteri Bottas BOT",
+    "nationality": "FIN",
+    "car": "Alfa Romeo Ferrari",
+    "pts": "49"
+  },
+  {
+    "index": 10,
+    "position": "11",
+    "driver": "Daniel Ricciardo RIC",
+    "nationality": "AUS",
+    "car": "McLaren Mercedes",
+    "pts": "37"
+  },
+  {
+    "index": 11,
+    "position": "12",
+    "driver": "Sebastian Vettel VET",
+    "nationality": "GER",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": "37"
+  },
+  {
+    "index": 12,
+    "position": "13",
+    "driver": "Kevin Magnussen MAG",
+    "nationality": "DEN",
+    "car": "Haas Ferrari",
+    "pts": "25"
+  },
+  {
+    "index": 13,
+    "position": "14",
+    "driver": "Pierre Gasly GAS",
+    "nationality": "FRA",
+    "car": "AlphaTauri RBPT",
+    "pts": "23"
+  },
+  {
+    "index": 14,
+    "position": "15",
+    "driver": "Lance Stroll STR",
+    "nationality": "CAN",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": "18"
+  },
+  {
+    "index": 15,
+    "position": "16",
+    "driver": "Mick Schumacher MSC",
+    "nationality": "GER",
+    "car": "Haas Ferrari",
+    "pts": "12"
+  },
+  {
+    "index": 16,
+    "position": "17",
+    "driver": "Yuki Tsunoda TSU",
+    "nationality": "JPN",
+    "car": "AlphaTauri RBPT",
+    "pts": "12"
+  },
+  {
+    "index": 17,
+    "position": "18",
+    "driver": "Zhou Guanyu ZHO",
+    "nationality": "CHN",
+    "car": "Alfa Romeo Ferrari",
+    "pts": "6"
+  },
+  {
+    "index": 18,
+    "position": "19",
+    "driver": "Alexander Albon ALB",
+    "nationality": "THA",
+    "car": "Williams Mercedes",
+    "pts": "4"
+  },
+  {
+    "index": 19,
+    "position": "20",
+    "driver": "Nicholas Latifi LAT",
+    "nationality": "CAN",
+    "car": "Williams Mercedes",
+    "pts": "2"
+  },
+  {
+    "index": 20,
+    "position": "21",
+    "driver": "Nyck De Vries DEV",
+    "nationality": "NED",
+    "car": "Williams Mercedes",
+    "pts": "2"
+  },
+  {
+    "index": 21,
+    "position": "22",
+    "driver": "Nico Hulkenberg HUL",
+    "nationality": "GER",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": "0"
+  }
+]

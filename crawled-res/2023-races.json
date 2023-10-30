@@ -1,0 +1,65 @@
+[
+  {
+    "index": 0,
+    "grandPrix": "Bahrain",
+    "date": "05 Mar 2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "57",
+    "time": "1:33:56.736"
+  },
+  {
+    "index": 1,
+    "grandPrix": "Saudi Arabia",
+    "date": "19 Mar 2023",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "50",
+    "time": "1:21:14.894"
+  },
+  {
+    "index": 2,
+    "grandPrix": "Australia",
+    "date": "02 Apr 2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "58",
+    "time": "2:32:38.371"
+  },
+  {
+    "index": 3,
+    "grandPrix": "Azerbaijan",
+    "date": "30 Apr 2023",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "51",
+    "time": "1:32:42.436"
+  },
+  {
+    "index": 4,
+    "grandPrix": "Miami",
+    "date": "07 May 2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "57",
+    "time": "1:27:38.241"
+  },
+  {
+    "index": 5,
+    "grandPrix": "Monaco",
+    "date": "28 May 2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "78",
+    "time": "1:48:51.980"
+  },
+  {
+    "index": 6,
+    "grandPrix": "Spain",
+    "date": "04 Jun 2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "66",
+    "time": "1:27:57.940"
+  }
+]

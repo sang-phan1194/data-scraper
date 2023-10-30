@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "position": "1",
+    "team": "Red Bull Racing RBPT",
+    "pts": "759"
+  },
+  {
+    "index": 1,
+    "position": "2",
+    "team": "Ferrari",
+    "pts": "554"
+  },
+  {
+    "index": 2,
+    "position": "3",
+    "team": "Mercedes",
+    "pts": "515"
+  },
+  {
+    "index": 3,
+    "position": "4",
+    "team": "Alpine Renault",
+    "pts": "173"
+  },
+  {
+    "index": 4,
+    "position": "5",
+    "team": "McLaren Mercedes",
+    "pts": "159"
+  },
+  {
+    "index": 5,
+    "position": "6",
+    "team": "Alfa Romeo Ferrari",
+    "pts": "55"
+  },
+  {
+    "index": 6,
+    "position": "7",
+    "team": "Aston Martin Aramco Mercedes",
+    "pts": "55"
+  },
+  {
+    "index": 7,
+    "position": "8",
+    "team": "Haas Ferrari",
+    "pts": "37"
+  },
+  {
+    "index": 8,
+    "position": "9",
+    "team": "AlphaTauri RBPT",
+    "pts": "35"
+  },
+  {
+    "index": 9,
+    "position": "10",
+    "team": "Williams Mercedes",
+    "pts": "8"
+  }
+]

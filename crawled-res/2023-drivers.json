@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "position": "1",
+    "driver": "Max Verstappen VER",
+    "nationality": "NED",
+    "car": "Red Bull Racing Honda RBPT",
+    "pts": "170"
+  },
+  {
+    "index": 1,
+    "position": "2",
+    "driver": "Sergio Perez PER",
+    "nationality": "MEX",
+    "car": "Red Bull Racing Honda RBPT",
+    "pts": "117"
+  },
+  {
+    "index": 2,
+    "position": "3",
+    "driver": "Fernando Alonso ALO",
+    "nationality": "ESP",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": "99"
+  },
+  {
+    "index": 3,
+    "position": "4",
+    "driver": "Lewis Hamilton HAM",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": "87"
+  },
+  {
+    "index": 4,
+    "position": "5",
+    "driver": "George Russell RUS",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": "65"
+  },
+  {
+    "index": 5,
+    "position": "6",
+    "driver": "Carlos Sainz SAI",
+    "nationality": "ESP",
+    "car": "Ferrari",
+    "pts": "58"
+  },
+  {
+    "index": 6,
+    "position": "7",
+    "driver": "Charles Leclerc LEC",
+    "nationality": "MON",
+    "car": "Ferrari",
+    "pts": "42"
+  },
+  {
+    "index": 7,
+    "position": "8",
+    "driver": "Lance Stroll STR",
+    "nationality": "CAN",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": "35"
+  },
+  {
+    "index": 8,
+    "position": "9",
+    "driver": "Esteban Ocon OCO",
+    "nationality": "FRA",
+    "car": "Alpine Renault",
+    "pts": "25"
+  },
+  {
+    "index": 9,
+    "position": "10",
+    "driver": "Pierre Gasly GAS",
+    "nationality": "FRA",
+    "car": "Alpine Renault",
+    "pts": "15"
+  },
+  {
+    "index": 10,
+    "position": "11",
+    "driver": "Lando Norris NOR",
+    "nationality": "GBR",
+    "car": "McLaren Mercedes",
+    "pts": "12"
+  },
+  {
+    "index": 11,
+    "position": "12",
+    "driver": "Nico Hulkenberg HUL",
+    "nationality": "GER",
+    "car": "Haas Ferrari",
+    "pts": "6"
+  },
+  {
+    "index": 12,
+    "position": "13",
+    "driver": "Oscar Piastri PIA",
+    "nationality": "AUS",
+    "car": "McLaren Mercedes",
+    "pts": "5"
+  },
+  {
+    "index": 13,
+    "position": "14",
+    "driver": "Valtteri Bottas BOT",
+    "nationality": "FIN",
+    "car": "Alfa Romeo Ferrari",
+    "pts": "4"
+  },
+  {
+    "index": 14,
+    "position": "15",
+    "driver": "Zhou Guanyu ZHO",
+    "nationality": "CHN",
+    "car": "Alfa Romeo Ferrari",
+    "pts": "4"
+  },
+  {
+    "index": 15,
+    "position": "16",
+    "driver": "Yuki Tsunoda TSU",
+    "nationality": "JPN",
+    "car": "AlphaTauri Honda RBPT",
+    "pts": "2"
+  },
+  {
+    "index": 16,
+    "position": "17",
+    "driver": "Kevin Magnussen MAG",
+    "nationality": "DEN",
+    "car": "Haas Ferrari",
+    "pts": "2"
+  },
+  {
+    "index": 17,
+    "position": "18",
+    "driver": "Alexander Albon ALB",
+    "nationality": "THA",
+    "car": "Williams Mercedes",
+    "pts": "1"
+  },
+  {
+    "index": 18,
+    "position": "19",
+    "driver": "Nyck De Vries DEV",
+    "nationality": "NED",
+    "car": "AlphaTauri Honda RBPT",
+    "pts": "0"
+  },
+  {
+    "index": 19,
+    "position": "20",
+    "driver": "Logan Sargeant SAR",
+    "nationality": "USA",
+    "car": "Williams Mercedes",
+    "pts": "0"
+  }
+]
